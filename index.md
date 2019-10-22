@@ -19,14 +19,12 @@ studying;
 copying;
 }
 
-- just never know w-h-o a-m I
-- w-h-a-t s-h-o-u-l-d I d-o
-- ?
-- 太中二了我自己都写不下去了233
+- 写不下去了233
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+大伙也可以来俺的[bilibili空间](https://guides.github.com/features/mastering-markdown/)康康，虽然啥都妹有，不过不妨碍py一波wwww。
+有一说一，MisonoMayu = 御园麻由，二刺螈8用 Japanese name 属实妹牌面嗷（笑）。
 
 
 ### 结尾不忘BB：
