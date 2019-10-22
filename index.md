@@ -1,37 +1,36 @@
-## 欢迎来康这个试验品
+## 欢迎来康康
 
-You can use the [editor on GitHub](https://github.com/controlmaa/MisonoMayu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是没课的周二下午的试验品
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 自言自语の文字
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+有一说一我也不知道应该写点什么，过段时间大概会继续完善吧，大概.......
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 我每天的生活
 
-- Bulleted
-- List
+while (alive)
 
-1. Numbered
-2. List
+{
+sleeping;
+eating;
+studying;
+copying;
+eating;
+sleeping;
+}
 
-**Bold** and _Italic_ and `Code` text
+- just never know w-h-o a-m I
+- w-h-a-t s-h-o-u-l-d I d-o
+- ?
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/controlmaa/MisonoMayu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 结尾不忘BB：
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+大佬们带我学一手，俺也想跟你们一样厉害
