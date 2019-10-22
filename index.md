@@ -17,8 +17,6 @@ sleeping;
 eating;
 studying;
 copying;
-eating;
-sleeping;
 }
 
 - just never know w-h-o a-m I
