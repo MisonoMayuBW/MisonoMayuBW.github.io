@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来康这个试验品
 
 You can use the [editor on GitHub](https://github.com/controlmaa/MisonoMayu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
